@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm a developer and content creator who loves buil
 - 🛡️ **[Arsenal](https://github.com/mustafabercerita/Arsenal)** - My personal collection of scripts, tools, and configurations.
 - 🍿 **[Habis Nonton Film](https://github.com/mustafabercerita/habis-nonton-film)** - Projects related to movie reviews and critique (`Kritik-Habis-Nonton-Film`, `HNF-Creative`).
 
-## 📈 GitHub Activity
-
-![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=mustafabercerita&hide_border=true)
-
 ## 🌐 Connect with me
 
 [![X / Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ceritamustafa)
@@ -27,7 +23,7 @@ Welcome to my GitHub profile! I'm a developer and content creator who loves buil
 [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@mustafabercerita)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@mustafabercerita)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@mustafabercerita)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mustafabercerita)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61568393440300)
 
 ---
 
