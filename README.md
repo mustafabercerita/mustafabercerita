@@ -8,13 +8,10 @@ Welcome to my GitHub profile! I'm a developer and content creator who loves buil
 - 🖊️ **[ponten](https://github.com/mustafabercerita/ponten)** - Lightweight macOS menu bar app — one-click digital signature to clipboard. Built with Swift & SwiftUI.
 
 ### 🔒 Maintained Projects (Private / Internal)
-- ⚙️ **[Siap-Pakai Ecosystem](https://github.com/mustafabercerita/Siap-Pakai)** - A collection of tools including `admin-siap-pakai` (Analytics dashboard on Cloudflare Pages) and `link-siap-pakai`.
-- 🎬 **[youtube-video-content-editor](https://github.com/mustafabercerita/youtube-video-content-editor)** - Documentation-first pipeline for turning YouTube videos into timestamped content and carousel-ready screenshot assets.
+- ⚙️ **[Siap-Pakai Ecosystem](https://github.com/mustafabercerita/Siap-Pakai)** - A collection of tools including `admin-siap-pakai` and `link-siap-pakai`. Visit: [siappakai.com](https://siappakai.com)
+- 🍿 **[Habis Nonton Film](https://github.com/mustafabercerita/habis-nonton-film)** - Projects related to movie reviews and critique. Visit: [habisnonton.film](https://habisnonton.film), [kuis.habisnonton.film](https://kuis.habisnonton.film), and [kritik.habisnonton.film](https://kritik.habisnonton.film)
+- 👗 **[Steal the Style](https://github.com/mustafabercerita/steal-the-style)** - Style and fashion curation. Visit: [stealthe.style](https://stealthe.style)
 - 📱 **[social-media-manager-kit](https://github.com/mustafabercerita/social-media-manager-kit)** - Tools and `smm-skill` pack to manage and automate social media workflows.
-- ✂️ **[youtube-short-clipper](https://github.com/mustafabercerita/youtube-short-clipper)** - SMM-maintained fork of YT Short Clipper for rapid video extraction.
-- 🎥 **[video-use](https://github.com/mustafabercerita/video-use)** - SMM-maintained fork for video management.
-- 🛡️ **[Arsenal](https://github.com/mustafabercerita/Arsenal)** - My personal collection of scripts, tools, and configurations.
-- 🍿 **[Habis Nonton Film](https://github.com/mustafabercerita/habis-nonton-film)** - Projects related to movie reviews and critique (`Kritik-Habis-Nonton-Film`, `HNF-Creative`).
 
 ## 🌐 Connect with me
 
