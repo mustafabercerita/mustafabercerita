@@ -1,13 +1,20 @@
 # Hi there 👋, I'm Mustafa
 
-Welcome to my GitHub profile! I'm a developer who loves building cool stuff.
+Welcome to my GitHub profile! I'm a developer and content creator who loves building cool stuff.
 
 ## 🚀 Projects
 
-- 📝 **[ponten](https://github.com/mustafabercerita/ponten)** - [Add a short description here]
-- 🛡️ **[arsenal](https://github.com/mustafabercerita/arsenal)** - [Private project description]
+### 🌟 Public Projects
+- 🖊️ **[ponten](https://github.com/mustafabercerita/ponten)** - Lightweight macOS menu bar app — one-click digital signature to clipboard. Built with Swift & SwiftUI.
 
-*(Tell me if you have other projects you want to list here!)*
+### 🔒 Maintained Projects (Private / Internal)
+- ⚙️ **[Siap-Pakai Ecosystem](https://github.com/mustafabercerita/Siap-Pakai)** - A collection of tools including `admin-siap-pakai` (Analytics dashboard on Cloudflare Pages) and `link-siap-pakai`.
+- 🎬 **[youtube-video-content-editor](https://github.com/mustafabercerita/youtube-video-content-editor)** - Documentation-first pipeline for turning YouTube videos into timestamped content and carousel-ready screenshot assets.
+- 📱 **[social-media-manager-kit](https://github.com/mustafabercerita/social-media-manager-kit)** - Tools and `smm-skill` pack to manage and automate social media workflows.
+- ✂️ **[youtube-short-clipper](https://github.com/mustafabercerita/youtube-short-clipper)** - SMM-maintained fork of YT Short Clipper for rapid video extraction.
+- 🎥 **[video-use](https://github.com/mustafabercerita/video-use)** - SMM-maintained fork for video management.
+- 🛡️ **[Arsenal](https://github.com/mustafabercerita/Arsenal)** - My personal collection of scripts, tools, and configurations.
+- 🍿 **[Habis Nonton Film](https://github.com/mustafabercerita/habis-nonton-film)** - Projects related to movie reviews and critique (`Kritik-Habis-Nonton-Film`, `HNF-Creative`).
 
 ## 📈 GitHub Activity
 
@@ -15,16 +22,19 @@ Welcome to my GitHub profile! I'm a developer who loves building cool stuff.
 
 ## 🌐 Connect with me
 
-[![X / Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Blog/Website](https://img.shields.io/badge/-Website-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
+[![X / Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ceritamustafa)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mustafabercerita)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@mustafabercerita)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@mustafabercerita)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@mustafabercerita)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mustafabercerita)
 
 ---
 
 ### ⚡ What I'm Doing
 
-- 💻 Building awesome projects
-- 🚀 Exploring new technologies
+- 💻 Building awesome projects and maintaining my ecosystem.
+- 🚀 Exploring new technologies and managing social media workflows.
+- 📱 Creating content for various platforms.
 
 > "Ship beats perfect" - Always building and iterating.
